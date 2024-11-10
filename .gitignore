@@ -1,0 +1,47 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istPublic/
+[Dd]ebugBuild/
+[Dd]ebugger/
+obj/
+bin/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.pdb
+*.mdb
+*.dbmdl
+*.bak
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Microsoft Visual Studio for Mac
+.vscode/
+
+# Azure Functions
+.local/
